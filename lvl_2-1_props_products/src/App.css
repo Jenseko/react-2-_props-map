@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+section {
+  margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+section div img {
+  width: 400px;
+}
